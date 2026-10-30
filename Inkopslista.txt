@@ -1,5 +1,5 @@
 1. [] Ägg
 2. [] Mjölk
-3. [] Bröd
-4. [] Smör
-5. [] Kanel
+3. [x] Bröd
+4. [x] Smör
+5. [x] Kanel
