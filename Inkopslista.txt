@@ -3,3 +3,4 @@
 3. [x] Bröd
 4. [x] Smör
 5. [x] Kanel
+bajs
