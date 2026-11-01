@@ -6,3 +6,4 @@
 
 Jag åker buss nu hehe :D
 När är du framme?
+Typ kl 15:00 (testar fetch)
